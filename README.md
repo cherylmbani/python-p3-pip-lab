@@ -3,7 +3,8 @@
 ## Learning Goals
 
 - Use pipenv to set up a virtual environment
-- Install libraries using pipenv
+- Install libraries using pipenv eg. requests==2.27.1
+
 
 ***
 
@@ -60,3 +61,4 @@ Virtual environments allow us to have a deterministic and predictable
 
 - [Pip env](https://pipenv.pypa.io/en/latest/)
 - [PYPI](https://pypi.org/)
+
